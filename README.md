@@ -1,6 +1,6 @@
 ## Hi, I am Zak Matty! 
 </br>
- <div>
+<div style="display: inline_block"><br>
   <a href="https://www.zakmatty.com" target="_blank">Visit My Website</a>
  </div>
  <div>
