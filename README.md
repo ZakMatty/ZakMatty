@@ -1,11 +1,13 @@
 ## Hi, I am Zak Matty! 
 </br>
-<div style="display: inline_block"><br>
-  <a href="https://www.zakmatty.com" target="_blank">Visit My Website</a>
- </div>
+
  <div>
-  <a href="https://github.com/ZakMatty">
+  <a href="https://github.com/ZakMatty"></a>
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakMatty&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+</br>
+<div>
+  <a href="https://www.zakmatty.com" target="_blank">Visit My Website</a>
 </div>
  
  ## Skills
