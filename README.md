@@ -6,9 +6,6 @@
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakMatty&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 </br>
-<div>
-  <a href="https://www.zakmatty.com" target="_blank" style="text-decoration:none; color:#58a6ff; font-weight:bold;">Visit My Website</a>
-</div>
 
 ## Skills
 <div style="display: inline_block"><br>
@@ -31,6 +28,7 @@
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/zak-matty-637458252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.zakmatty.com" target="_blank"><img src="https://www.subbroker.in/wp-content/uploads/2020/04/website-button-png-16.png" target="_blank"></a> 
   <a href = "mailto: zakxmatty@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </br>
 </br>
