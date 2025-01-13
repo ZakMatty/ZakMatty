@@ -33,7 +33,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="PowerApps" height="30" width="40" src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-power-apps-logo.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="SQL" height="30" width="40" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png">
+  <img height="40" align="center" alt="SQL" height="30" width="40" src="https://e7.pngegg.com/pngimages/28/601/png-clipart-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text.png">
 </div>
 
 </br>
